@@ -75,7 +75,7 @@ import java.util.Locale;
            System.out.println("Nome: " + nome);
            System.out.println("Idade: " + idade);
            System.out.printf("Valor: R$ %.2f%n", valor);
-           System.out.println("Pagamento: " + forma_pagamento);
+           System.out.println("Pagamento = " + forma_pagamento);
 
 
 
